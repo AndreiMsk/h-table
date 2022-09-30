@@ -1,0 +1,29 @@
+.navigation {
+    background-color: $haiilo-green;
+    padding: 1rem 3rem;
+}
+
+.language {
+    background-color: $base-color-dark;
+    color: $haiilo-orange-light;
+    padding: 0.8rem 1rem;
+    border-radius: 5px;
+    font-size: 0.7rem;
+
+    .active {
+        border: 1px solid $haiilo-orange-light;
+        background-color: $haiilo-orange-dark;
+        color: $base-color-dark;
+        border-radius: 3px;
+    }
+
+    li {
+        padding: 0.4rem 0.8rem;
+        cursor: pointer;
+        text-transform: uppercase;
+
+        &:hover {
+            cursor: pointer;
+        }
+    }
+}

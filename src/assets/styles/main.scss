@@ -1,0 +1,15 @@
+@import "./utilities/reset.scss";
+@import "./utilities/colors.scss";
+@import "./utilities/helpers.scss";
+@import "./scores.scss";
+
+@import "./globals/header.scss";
+@import "./globals/footer.scss";
+
+@import "./homepage/datatable.scss";
+
+
+.main {
+    padding: 5rem 3rem;
+    min-height: calc(100vh - 15rem);
+}

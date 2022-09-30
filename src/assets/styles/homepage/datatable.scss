@@ -1,0 +1,117 @@
+.tableFixHeadAndColumnWrapper {
+    overflow: auto;
+    height: 650px;
+    border: 1px solid $base-color-gray;
+    color: $base-color;
+    font-size: 0.85rem;
+    scrollbar-color: #e4f4f5 #165860;
+    width: 100%;
+
+    .no-results-text {
+        margin: 8rem 0;
+        position: absolute;
+        left: calc((100vw - 12rem) / 2);
+    }
+
+    .striped {
+        background-color: $base-color-gray-light;
+    }
+
+    thead {
+        z-index: 99;
+        width: auto;
+        top: -2px;
+        position: relative;
+        height: 75px;
+        -webkit-transform: translate3d(0,0,0);
+        -webkit-transform-style: preserve-3d;
+        -webkit-transform: translateZ(0);
+
+ 
+
+        th {
+            font-weight: 600;
+            background: $base-color-gray-light;
+
+            .th-data {
+                display: inline-block;
+                width: 100px;
+            }
+
+            &:first-child {
+                height: 75px;
+                & > div {
+                    width: 280px;
+                    margin: 0 auto;
+                }
+            }
+        }
+    }
+
+    tbody {
+        scroll-behavior: smooth;
+        td {
+            border: 1px solid $base-color-gray;
+        }
+    }
+
+    th,
+    td {
+        // border: 1px solid $base-color-gray; disabled borders for th
+        &:first-child {
+            min-width: 300px;
+            max-width: 300px;
+            width: 300px;
+        }
+    }
+
+    .td-data-question {
+        height: 60px;
+        font-weight: 500;
+        background: $base-color-gray-light;
+        height: 50px;
+        padding-inline: 5%;
+    }
+
+    .td-data-score {
+        height: 40px;
+
+        .score-box {
+            padding: 5px;
+            min-width: 20px;
+            text-align: center;
+            border-radius: 2px;
+            font-weight: 500;
+            font-size: 0.7rem;
+        }
+    }
+}
+
+/** 
+* datatable search: input and buttons
+*/
+
+.search-input {
+    padding: 0.2rem 0.9rem;
+    height: 35px;
+    border: 1px solid $base-color-gray;
+    color: $base-color;
+    width: 100%;
+    border-right-color: transparent;
+}
+
+.search-button {
+    background-color: $base-color-white;
+    height: 43px;
+    width: 43px;
+    border: 1px solid $base-color-gray;
+    border-left-color: transparent;
+
+    &:hover {
+        cursor: pointer;
+    }
+
+    svg {
+        color: $base-color;
+    }
+}

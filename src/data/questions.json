@@ -1,0 +1,97 @@
+[{
+	"_id": "60fa8738ddf98b7abc26ef68",
+	"labels": {
+		"fr": "Que penses-tu de l'esprit d'équipe chez ACME ?",
+		"en": "How strong would you say the team spirit at ACME is?"
+	}
+}, {
+	"_id": "60fa8738ddf98b7abc26ef6d",
+	"labels": {
+		"fr": "Comment définirais-tu la relation avec tes collègues ?",
+		"en": "How would you define the relationship with your colleagues?"
+	}
+}, {
+	"_id": "60fa8738ddf98b7abc26ef78",
+	"labels": {
+		"fr": "Es-tu satisfait(e) des espaces communs aménagés pour les pauses et la détente ?",
+		"en": "Are you satisfied with how common areas are arranged for breaks and relaxation?"
+	}
+}, {
+	"_id": "60fa8738ddf98b7abc26ef7c",
+	"labels": {
+		"fr": "Considères-tu avoir une marge de manoeuvre suffisante pour mener à bien tes missions ?",
+		"en": "Do you think you have enough leeway to carry out your missions?"
+	}
+}, {
+	"_id": "60fa8738ddf98b7abc26ef82",
+	"labels": {
+		"fr": "Comment évalues-tu les relations avec tes supèrieurs directs ?",
+		"en": "How good would you say the relationship with your direct super supervisor is?"
+	}
+}, {
+	"_id": "60fa8738ddf98b7abc26ef8d",
+	"labels": {
+		"fr": "Les réunions auxquelles je participe sont utiles et efficaces",
+		"en": "The meetings I attend are useful and effective"
+	}
+}, {
+	"_id": "60fa8738ddf98b7abc26ef92",
+	"labels": {
+		"fr": "Es-tu satisfait(e) de la direction de ACME ?",
+		"en": "Are you satisfied with the top management at ACME?"
+	}
+}, {
+	"_id": "60fa8738ddf98b7abc26efa2",
+	"labels": {
+		"fr": "Es-tu d'accord avec cette affirmation \"je me sens écouté(e) par mon manager\" ?",
+		"en": "Do you agree with this statement \"I feel listened to by my manager\"?"
+	}
+}, {
+	"_id": "60fa8738ddf98b7abc26efaf",
+	"labels": {
+		"fr": "Considères-tu avoir les moyens de bien accomplir ton travail ?",
+		"en": "Do you feel you have the right conditions to perform in your job?"
+	}
+}, {
+	"_id": "60fa8739ddf98b7abc26efbe",
+	"labels": {
+		"fr": "Comment juges-tu tes perspectives d'évolution chez ACME ?",
+		"en": "How would you rate your career perspective at ACME?"
+	}
+}, {
+	"_id": "60fa8739ddf98b7abc26efd6",
+	"labels": {
+		"fr": "Es-tu satisfait(e) de la politique de rémunération de ACME ?",
+		"en": "Are you satisfied with ACME's compensation policy?"
+	}
+}, {
+	"_id": "60fa8739ddf98b7abc26efe2",
+	"labels": {
+		"fr": "Es-tu satisfait(e) des avantages complémentaires à la rémunération chez ACME ?",
+		"en": "Are you satisfied with the extra benefits besides compensation at ACME?"
+	}
+}, {
+	"_id": "60fa8739ddf98b7abc26efe8",
+	"labels": {
+		"fr": "Le niveau de collaboration qui a eu lieu cette semaine était-il approprié ?",
+		"en": "Was the level of collaboration this week appropriate?"
+	}
+}, {
+	"_id": "60fa8739ddf98b7abc26efed",
+	"labels": {
+		"fr": "Comment juges-tu ton équilibre vie professionnelle \/ vie privée ?",
+		"en": "How good would you say your worklife balance is?"
+	}
+}, {
+	"_id": "60fa8739ddf98b7abc26eff2",
+	"labels": {
+		"fr": "Au bureau, te sens-tu stressé(e) ?",
+		"en": "Do you feel stressed at the office?"
+	}
+}, {
+	"_id": "60fa8739ddf98b7abc26f005",
+	"labels": {
+		"fr": "Es-tu satisfait(e) des offres proposées par la DUP ?",
+		"en": "Are you satisfied with the offers proposed by the DUP?"
+	}
+}]

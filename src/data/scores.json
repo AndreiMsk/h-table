@@ -1,0 +1,721 @@
+[{
+		"question_id": "60fa8738ddf98b7abc26ef68",
+		"scores": [
+			[{
+				"filter_id": "60fa8738ddf98b7abc26ee51",
+				"value": 4.526489608193662
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee52",
+				"value": 78.48321314511955
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee53",
+				"value": 26.46580341906335
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee54",
+				"value": 66.50238191162354
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee55",
+				"value": 74.15436898192753
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee56",
+				"value": 54.966814600226144
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee57",
+				"value": 42.95984937797477
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee58",
+				"value": 25.67734275775169
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee59",
+				"value": 33.03998079296606
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5a",
+				"value": 14.740993854196427
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5b",
+				"value": 37.81440341400082
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5c",
+				"value": 23.047870325194776
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5d",
+				"value": 38.4780314427994
+			}]
+		]
+	},
+	{
+		"question_id": "60fa8738ddf98b7abc26ef6d",
+		"scores": [
+			[{
+				"filter_id": "60fa8738ddf98b7abc26ee51",
+				"value": 60.65678826719132
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee52",
+				"value": 12.83203112450295
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee53",
+				"value": 38.51234731387159
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee54",
+				"value": 74.53615649697616
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee55",
+				"value": 57.54237543040321
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee56",
+				"value": 93.62868974832426
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee57",
+				"value": 61.29201502024883
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee58",
+				"value": 42.02931042532894
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee59",
+				"value": 26.20553618298034
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5a",
+				"value": 93.025586319607
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5b",
+				"value": 36.761223671910855
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5c",
+				"value": 20.98857786143171
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5d",
+				"value": 67.9821940910619
+			}]
+		]
+	},
+	{
+		"question_id": "60fa8738ddf98b7abc26ef78",
+		"scores": [
+			[{
+				"filter_id": "60fa8738ddf98b7abc26ee51",
+				"value": 61.04290248325759
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee52",
+				"value": 71.2869973485656
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee53",
+				"value": 32.88708320092426
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee54",
+				"value": 43.46440495189747
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee55",
+				"value": 94.06319613215844
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee56",
+				"value": 79.08996743822019
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee57",
+				"value": 93.5153464704953
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee58",
+				"value": 1.1403579245069073
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee59",
+				"value": 70.7796853383496
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5a",
+				"value": 24.477833949075144
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5b",
+				"value": 91.23317459983626
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5c",
+				"value": 40.20297163157884
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5d",
+				"value": 47.42122842004042
+			}]
+		]
+	},
+	{
+		"question_id": "60fa8738ddf98b7abc26ef7c",
+		"scores": [
+			[{
+				"filter_id": "60fa8738ddf98b7abc26ee51",
+				"value": 26.93283916639797
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee52",
+				"value": 95.01681924259104
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee53",
+				"value": 6.098135947956385
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee54",
+				"value": 99.06014209740314
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee55",
+				"value": 29.449483443759462
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee56",
+				"value": 53.71845064086811
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee57",
+				"value": 27.751082457414576
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee58",
+				"value": 5.860385371273669
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee59",
+				"value": 16.95044503701004
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5a",
+				"value": 50.10394622222534
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5b",
+				"value": 63.06490946205241
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5c",
+				"value": 67.36429395494592
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5d",
+				"value": 84.99878442838596
+			}]
+		]
+	},
+	{
+		"question_id": "60fa8738ddf98b7abc26ef82",
+		"scores": [
+			[{
+				"filter_id": "60fa8738ddf98b7abc26ee51",
+				"value": 56.118869910209156
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee52",
+				"value": 66.45399311402878
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee53",
+				"value": 6.275405997790107
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee54",
+				"value": 55.413761354478865
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee55",
+				"value": 8.418995527318751
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee56",
+				"value": 7.956475579811895
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee57",
+				"value": 55.04788818053468
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee58",
+				"value": 52.97120954656851
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee59",
+				"value": 13.716639970205978
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5a",
+				"value": 17.376453103116198
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5b",
+				"value": 88.13961664084866
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5c",
+				"value": 12.080691159222368
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5d",
+				"value": 3.3362742404422274
+			}]
+		]
+	},
+	{
+		"question_id": "60fa8738ddf98b7abc26ef8d",
+		"scores": [
+			[{
+				"filter_id": "60fa8738ddf98b7abc26ee51",
+				"value": 94.09070886645206
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee52",
+				"value": 97.09398579305595
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee53",
+				"value": 87.80308852845951
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee54",
+				"value": 95.5705753003824
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee55",
+				"value": 10.210502813427592
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee56",
+				"value": 26.1654099655259
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee57",
+				"value": 6.159261945306271
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee58",
+				"value": 2.082947288450021
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee59",
+				"value": 12.890567371220474
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5a",
+				"value": 3.6302468219092887
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5b",
+				"value": 69.27325245380294
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5c",
+				"value": 17.436022532540374
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5d",
+				"value": 92.90158078792959
+			}]
+		]
+	},
+	{
+		"question_id": "60fa8738ddf98b7abc26ef92",
+		"scores": [
+			[{
+				"filter_id": "60fa8738ddf98b7abc26ee51",
+				"value": 28.503400878827346
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee52",
+				"value": 16.520765661240254
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee53",
+				"value": 72.14630665494985
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee54",
+				"value": 96.70312877093794
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee55",
+				"value": 57.352374397445786
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee56",
+				"value": 13.454035258497354
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee57",
+				"value": 33.46528881390371
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee58",
+				"value": 70.44739441529318
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee59",
+				"value": 14.943346739639951
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5a",
+				"value": 94.57923621050226
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5b",
+				"value": 63.99059852387672
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5c",
+				"value": 9.143415403287069
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5d",
+				"value": 59.302450875285096
+			}]
+		]
+	},
+	{
+		"question_id": "60fa8738ddf98b7abc26efa2",
+		"scores": [
+			[{
+				"filter_id": "60fa8738ddf98b7abc26ee51",
+				"value": 92.64885103494831
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee52",
+				"value": 35.76612665490791
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee53",
+				"value": 44.39410898042784
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee54",
+				"value": 89.7190548261259
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee55",
+				"value": 44.245539852423036
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee56",
+				"value": 33.18742216205928
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee57",
+				"value": 96.18432314787037
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee58",
+				"value": 34.154223912981195
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee59",
+				"value": 53.399445577742185
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5a",
+				"value": 62.54913210810751
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5b",
+				"value": 79.8188792901577
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5c",
+				"value": 39.55953164033954
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5d",
+				"value": 69.18615214784116
+			}]
+		]
+	},
+	{
+		"question_id": "60fa8738ddf98b7abc26efaf",
+		"scores": [
+			[{
+				"filter_id": "60fa8738ddf98b7abc26ee51",
+				"value": 22.670765729676546
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee52",
+				"value": 0.20041303814501976
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee53",
+				"value": 62.86110404879437
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee54",
+				"value": 3.3001143538767153
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee55",
+				"value": 9.598060699522136
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee56",
+				"value": 30.887298283534626
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee57",
+				"value": 75.76058611489111
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee58",
+				"value": 19.28835806914979
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee59",
+				"value": 43.830972940450195
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5a",
+				"value": 49.432101839592725
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5b",
+				"value": 12.682428154456016
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5c",
+				"value": 97.70535998329429
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5d",
+				"value": 22.612570398737653
+			}]
+		]
+	},
+	{
+		"question_id": "60fa8739ddf98b7abc26efbe",
+		"scores": [
+			[{
+				"filter_id": "60fa8738ddf98b7abc26ee51",
+				"value": 96.70015541762658
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee52",
+				"value": 43.17064578132788
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee53",
+				"value": 24.843223698590823
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee54",
+				"value": 62.09269538088063
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee55",
+				"value": 78.67993600806255
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee56",
+				"value": 89.27275776356952
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee57",
+				"value": 25.015097014619148
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee58",
+				"value": 62.49152698911728
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee59",
+				"value": 22.754977908933483
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5a",
+				"value": 46.46012574858729
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5b",
+				"value": 85.74755895879989
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5c",
+				"value": 89.7624645719493
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5d",
+				"value": 31.471865570397362
+			}]
+		]
+	},
+	{
+		"question_id": "60fa8739ddf98b7abc26efd6",
+		"scores": [
+			[{
+				"filter_id": "60fa8738ddf98b7abc26ee51",
+				"value": 53.133606457332604
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee52",
+				"value": 60.56914097798207
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee53",
+				"value": 6.2083019379442606
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee54",
+				"value": 97.60089429069654
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee55",
+				"value": 64.32562258908048
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee56",
+				"value": 64.64313231615726
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee57",
+				"value": 16.823174560302157
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee58",
+				"value": 35.9967568094669
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee59",
+				"value": 82.6091127610931
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5a",
+				"value": 73.70510343230809
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5b",
+				"value": 35.15789759493835
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5c",
+				"value": 46.665615674419605
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5d",
+				"value": 10.55155053997332
+			}]
+		]
+	},
+	{
+		"question_id": "60fa8739ddf98b7abc26efe2",
+		"scores": [
+			[{
+				"filter_id": "60fa8738ddf98b7abc26ee51",
+				"value": 84.31817245724147
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee52",
+				"value": 31.59650792755042
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee53",
+				"value": 29.779002583088896
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee54",
+				"value": 28.422323805390537
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee55",
+				"value": 30.798283693520823
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee56",
+				"value": 15.367819427475649
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee57",
+				"value": 59.95386768989588
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee58",
+				"value": 3.051814156879029
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee59",
+				"value": 16.92199362349005
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5a",
+				"value": 6.519415797345229
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5b",
+				"value": 92.30621865367488
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5c",
+				"value": 3.7001724132682545
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5d",
+				"value": 59.50590955917798
+			}]
+		]
+	},
+	{
+		"question_id": "60fa8739ddf98b7abc26efe8",
+		"scores": [
+			[{
+				"filter_id": "60fa8738ddf98b7abc26ee51",
+				"value": 84.46130653774311
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee52",
+				"value": 87.36669841986662
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee53",
+				"value": 5.710459177185734
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee54",
+				"value": 91.04509615098328
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee55",
+				"value": 59.55459475389473
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee56",
+				"value": 11.371045395750023
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee57",
+				"value": 52.501976632335754
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee58",
+				"value": 38.27840064295649
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee59",
+				"value": 4.10300405220736
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5a",
+				"value": 28.055097752955604
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5b",
+				"value": 70.18764014297628
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5c",
+				"value": 84.81722089303638
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5d",
+				"value": 29.890038354541982
+			}]
+		]
+	},
+	{
+		"question_id": "60fa8739ddf98b7abc26efed",
+		"scores": [
+			[{
+				"filter_id": "60fa8738ddf98b7abc26ee51",
+				"value": 45.71707749095022
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee52",
+				"value": 4.823546981250604
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee53",
+				"value": 17.373029383024765
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee54",
+				"value": 36.44583809319404
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee55",
+				"value": 67.82525612898054
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee56",
+				"value": 9.638058033451657
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee57",
+				"value": 39.61496131519573
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee58",
+				"value": 27.729025260881436
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee59",
+				"value": 61.919423802080644
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5a",
+				"value": 14.87301580723177
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5b",
+				"value": 16.50539128168864
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5c",
+				"value": 14.91167743212618
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5d",
+				"value": 58.38759658301915
+			}]
+		]
+	},
+	{
+		"question_id": "60fa8739ddf98b7abc26eff2",
+		"scores": [
+			[{
+				"filter_id": "60fa8738ddf98b7abc26ee51",
+				"value": 45.3421637105881
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee52",
+				"value": 84.38439953015364
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee53",
+				"value": 93.21704221505837
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee54",
+				"value": 21.301746376567408
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee55",
+				"value": 85.09638318541917
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee56",
+				"value": 7.326173669142388
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee57",
+				"value": 87.56174050241734
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee58",
+				"value": 97.86344805879916
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee59",
+				"value": 74.71247491996591
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5a",
+				"value": 5.355909860092112
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5b",
+				"value": 80.37791844430753
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5c",
+				"value": 30.88881445025853
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5d",
+				"value": 96.74281429000504
+			}]
+		]
+	},
+	{
+		"question_id": "60fa8739ddf98b7abc26f005",
+		"scores": [
+			[{
+				"filter_id": "60fa8738ddf98b7abc26ee51",
+				"value": 10.928794171614387
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee52",
+				"value": 31.0392779913238
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee53",
+				"value": 5.219261060842362
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee54",
+				"value": 46.87406075369969
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee55",
+				"value": 23.973909392346894
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee56",
+				"value": 38.29747627795535
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee57",
+				"value": 13.016205934271996
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee58",
+				"value": 9.495357940283867
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee59",
+				"value": 3.7528537460791433
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5a",
+				"value": 96.75879359243136
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5b",
+				"value": 87.55076071421735
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5c",
+				"value": 75.94320578368443
+			}, {
+				"filter_id": "60fa8738ddf98b7abc26ee5d",
+				"value": 53.5041650151554
+			}]
+		]
+	}
+]
