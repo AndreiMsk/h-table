@@ -1,7 +1,15 @@
-# Vue 3 + Vite
+# Haiilo table challenge
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This project uses Vue 3 + Vite
 
-## Recommended IDE Setup
+## Installation
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+- Git clone + Npm install + Npm run dev
+
+## Notes
+
+- Working examples for Pinia and VueRouter added;
+- Language switcher;
+- Basic search implementation taking into account the UX language;
+
+
