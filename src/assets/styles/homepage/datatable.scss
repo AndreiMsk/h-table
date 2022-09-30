@@ -27,8 +27,6 @@
         -webkit-transform-style: preserve-3d;
         -webkit-transform: translateZ(0);
 
- 
-
         th {
             font-weight: 600;
             background: $base-color-gray-light;
@@ -57,7 +55,6 @@
 
     th,
     td {
-        // border: 1px solid $base-color-gray; disabled borders for th
         &:first-child {
             min-width: 300px;
             max-width: 300px;
