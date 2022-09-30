@@ -3,7 +3,7 @@
         <table border="0" cellpadding="0" cellspacing="0">
 
             <!-- table header: shows filters -->
-            <thead>
+            <thead ref="thead">
                 <tr>
                     <th>
                         <SearchQuestion v-model="searchQuery" @reset="handleResetSearch" />
@@ -61,6 +61,11 @@ const { filters, questions, scores } = storeToRefs(useDataTableStore());
 /** reactive : search query synced with Search Component */
 const searchQuery = ref(null);
 
+/** reactive template refs to access sticky header and column */
+const thead = ref(null);
+const question = ref(null);
+
+
 
 /** Vue Lifecycle : simulate getting data from API */
 onMounted(() => {
@@ -97,15 +102,13 @@ function handleResetSearch() {
 }
 
 /** method: on scroll event callback function - handles sticky positioning */
-function handleScroll(e) {
+function handleScroll(event) {
 
     /** vertically scrolling */
-    e.target.querySelectorAll("thead").forEach(
-        th => (th.style.transform = `translateY(${e.target.scrollTop}px)`));
+    thead.value.style.transform = `translateY(${event.target.scrollTop}px)`;
 
     /** horizontally scrolling */
-    e.target.querySelectorAll(".td-data-question").forEach(
-        question => (question.style.transform = `translateX(${e.target.scrollLeft}px)`));
+    question.value.forEach(question => (question.style.transform = `translateX(${event.target.scrollLeft}px)`));
 }
 
 
